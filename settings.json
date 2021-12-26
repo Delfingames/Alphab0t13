@@ -1,1 +1,21 @@
-{"clientID":"j1Ifmg75YJM54LdhrNam5A==","serverToken":"1@CA1X4FTlTyh0sAHAGyvR3/QWDJy5elL9J6oFWDnsMvf7TOnoRGUlINYVh3IusiaKgGEsRnLaSo3WCQ==","clientToken":"AT2suWeWa6cfYbGGq1vpswHRmHapCGSfnnANN/4oXP8=","encKey":"O+ONUYpXdjOoIp0x5fUwHJEhLUlAF5cUY98x1vWusKs=","macKey":"bdhMZ5EQ55jM7DKDnNaHWr09rS27nSWepm7T1k/c1e8="}
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6289652696032",
+	"ownerNumberr": "6289652696032",
+	"cr": "@Delfin",
+	"ownername": "delfin games",
+	"botname":"Dah di bacot mulu",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  All  」\nCreated By @ZeeoneOfcོ"
+}
